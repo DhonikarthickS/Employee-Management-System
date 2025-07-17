@@ -1,0 +1,23 @@
+# Ignore compiled class files
+*.class
+
+# Ignore output folders
+out/
+bin/
+
+# Ignore logs and crash reports
+*.log
+hs_err_pid*
+
+
+# VS Code settings
+.vscode/
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
